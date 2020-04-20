@@ -1,5 +1,3 @@
-# algorithms
-
 # Algorithms
 
 Algorithms is a repository where i will store a few algorithms and tests.
